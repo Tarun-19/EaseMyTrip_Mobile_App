@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283441193127",
+    "project_id": "easemytrip-94cd9",
+    "storage_bucket": "easemytrip-94cd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283441193127:android:e42589ed4399304dd17b82",
+        "android_client_info": {
+          "package_name": "com.easemytrip_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283441193127-na4iqem734i2iefqhqkrfs34qbuujn1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBJ3NPflSmhOiHK721sCvM871RxJ3zOJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283441193127-na4iqem734i2iefqhqkrfs34qbuujn1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
